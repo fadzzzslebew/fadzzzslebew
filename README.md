@@ -48,7 +48,7 @@ I am still a student
 <a href="xdlyy404"><img src="https://komarev.com/ghpvc/?username=xdlyy404&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="xdlyy404" /></a>
 <br>
 <a href="https://github.com/xdlyy404"><img src="https://github-readme-stats.vercel.app/api?username=xdlyy404&bg_color=071A2C&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></>
-<a href="https://github.com/xdlyy404"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fadly%20ID&bg_color=071A2C&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+<a href="https://github.com/xdlyy404"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FADZZZ%20PROJECT&bg_color=071A2C&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xdlyy404&bg_color=071A2C" />
 <a href="https://github.com/xdlyy404/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xdlyy404&theme=onedark" /></a>
 </div>
