@@ -2,7 +2,7 @@
 <h3 align="center">About me?</h3>
 
 ```rb
-Hi my name is Fadly and
+Hi my name is Fadzzz and
 I am still a student
 
 • I'm 18 y.o
