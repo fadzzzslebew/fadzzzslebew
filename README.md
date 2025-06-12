@@ -3,7 +3,7 @@
 
 ```rb
 Hi my name is Fadzzz and
-I am still a student
+I'm still unemployed 
 
 • I'm 18 y.o
 • I'm currently focusing on Javascript, Typescript, PHP, 
